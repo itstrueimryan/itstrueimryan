@@ -6,6 +6,7 @@
 - 🔭 Working at goTenna to help create the mesh network of the future.
 - 🌱 Learning Jest and ArcGIS mapping tools.
 - 🎥 Favorite movie: _The Good, the Bad, and the Ugly_
+- 🎮 Currently playing: _Half Life: Alyx_
 
 
 ### Connect with me
@@ -22,8 +23,12 @@
 
 ### Technology Stack
 
+<img align="left" alt="Vue" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+
+<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
