@@ -9,7 +9,7 @@
 - 🎮 Currently playing: _Half Life: Alyx_
 - 🏔️ Last Visited: Grand Teton National Park & Yellowstone
 
-<img width="300px" align="center" src="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/122801591_988778334931107_6189160066516388896_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=wT0KXuwmkkUAX8d0P1K&tp=24&oh=17d7ab450dbff6af193d33ff7defdff5&oe=5FDE3AF3" />
+<img width="300px" src="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/122801591_988778334931107_6189160066516388896_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=wT0KXuwmkkUAX8d0P1K&tp=24&oh=17d7ab450dbff6af193d33ff7defdff5&oe=5FDE3AF3" />
 
 
 ### Connect with me
