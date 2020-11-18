@@ -3,8 +3,9 @@
 
 ## I'm a Full Stack developer, photographer, gamer, and travel enthusiast.
 
-- 🔭 I’m currently working at goTenna to help create the mesh network of the future.
-- 🌱 I’m currently learning Jest.
+- 🔭 Working at goTenna to help create the mesh network of the future.
+- 🌱 Learning Jest and ArcGIS mapping tools.
+- 🎥 Favorite movie: The Good, the Bad, and the Ugly
 
 
 ### Connect with me
