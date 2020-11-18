@@ -1,9 +1,11 @@
 ### Hey there, I'm Ryan Bobrowski 👋
 
+
 ## I'm a Full Stack developer, photographer, gamer, and travel enthusiast.
 
 - 🔭 I’m currently working at goTenna to help create the mesh network of the future.
 - 🌱 I’m currently learning Jest.
+
 
 ### Connect with me
 
@@ -15,10 +17,11 @@
 
 <a href="https://www.instagram.com/itstrueimryan/"><img align="left" alt="Instagram - Ryan Bobrowski" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+
 ### Technology Stack
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
