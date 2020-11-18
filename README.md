@@ -5,7 +5,7 @@
 
 - 🔭 Working at goTenna to help create the mesh network of the future.
 - 🌱 Learning Jest and ArcGIS mapping tools.
-- 🎥 Favorite movie: **_The Good, the Bad, and the Ugly_**
+- 🎥 Favorite movie: _The Good, the Bad, and the Ugly_
 
 
 ### Connect with me
