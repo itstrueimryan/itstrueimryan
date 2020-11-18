@@ -15,7 +15,7 @@
 
 <a href="https://twitter.com/rbob86"><img align="left" alt="Twitter - Ryan Bobrowski" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<a href="https://www.instagram.com/itstrueimryan/"><img align="left" alt="Instagram - Ryan Bobrowski" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/itstrueimryan/"><img alt="Instagram - Ryan Bobrowski" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 
