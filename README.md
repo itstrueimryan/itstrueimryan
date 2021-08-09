@@ -9,8 +9,6 @@
 - 🎮 Currently playing: _Nioh 2_
 - 🏔️ Last Visited: Grand Teton National Park & Yellowstone
 
-<img width="300px" src="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/122801591_988778334931107_6189160066516388896_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=jbm2KTcUkGgAX-JDMUg&tp=1&oh=69ec2ee38f414ed4fedbfa0b20c101b6&oe=605438B7" />
-
 
 ### Connect with me
 
