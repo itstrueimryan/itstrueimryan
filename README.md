@@ -6,7 +6,7 @@
 - 🔭 Working at goTenna to help create the mesh network of the future.
 - 🌱 Learning ArcGIS JavaScript API for maps.
 - 🎥 Favorite movie: _The Good, the Bad, and the Ugly_
-- 🎮 Currently playing: _Nioh 2_
+- 🎮 Currently playing: _Diablo 2: Resurrected_
 - 🏔️ Last Visited: Grand Teton National Park & Yellowstone
 
 
