@@ -9,14 +9,6 @@
 - 🎮 Currently playing: _Diablo 2: Resurrected_
 - 🏔️ Last Visited: Grand Teton National Park & Yellowstone
 
-### Glossary
-
-**Test Plan**
-> A test plan is bla test plan is bla test plan is bla test plan is bla test plan is bla test plan is bla test plan is bla  test plan is bla test plan is bla test plan is bla test plan is bla 
-
-**Test Run**
-> asjndajdajdnadaudasuauds
-
 
 ### Connect with me
 
